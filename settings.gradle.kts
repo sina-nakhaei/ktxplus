@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ktx-plus"
 include(":app")
- 
+include(":ktx-plus")
